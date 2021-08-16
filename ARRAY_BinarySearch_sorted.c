@@ -15,7 +15,7 @@
             return BinarySearch(arr, (mid+1), high, search);
         }
 
-        else    // case 3: If element lies before mid point
+        else    // case 3: If the element lies before mid point
             return BinarySearch(arr, low, (mid-1), search);   
 
     }
