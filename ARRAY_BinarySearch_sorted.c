@@ -10,7 +10,7 @@
             return mid;
         }
         
-        else if (search > arr[mid])  // Case 2: If th element lies beyond mid point
+        else if (search > arr[mid])  // Case 2: If the element lies beyond mid point
         {
             return BinarySearch(arr, (mid+1), high, search);
         }
