@@ -1,6 +1,6 @@
 #include<stdio.h>
     
-    // Binary Search Algorit
+    // Binary Search Algori
 
     int BinarySearch(int arr[], int low, int high, int search){
         
