@@ -1,6 +1,4 @@
 #include<stdio.h>
-    
-
 
     int BinarySearch(int arr[], int low, int high, int search){
         
