@@ -24,7 +24,7 @@
  
     int arr[] = {34,66,72,84,99};
     int elements = sizeof(arr)/sizeof(int);
-    int search = 84;
+    int search = 84; // element to be searched
     int index = BinarySearch(arr, 0, elements-1, search);
 
     printf("The element %d is found at index %d\n",search, index);
