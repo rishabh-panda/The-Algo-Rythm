@@ -21,6 +21,8 @@ for(i=0;i<5;i++)
     printf("\n");
     }
 
+
+// Printing the tri-diagonal matrix  
 printf("\nTridiagnal matrix:\n\n");
 printf("%d  %d\n",mat[0][0],mat[0][1]);
 for(i=1;i<5;i++)
