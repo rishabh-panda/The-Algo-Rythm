@@ -1,6 +1,8 @@
 #include<stdio.h>
 #include<conio.h>
 
+
+
 struct poly {
    int exp;
    int coef;
