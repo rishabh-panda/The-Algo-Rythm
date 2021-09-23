@@ -15,7 +15,7 @@ scanf("%d",&n1);
 printf("\n\nEnter the Co-efficients & Exponents for A: \n\n");
 for (int i = 0; i < n1; i++)
 scanf("%d%d",&a[i].coef,&a[i].exp);
-printf("\nNumber of Co-efficients of Poly. B: ");
+printf("\nNumber of Co-efficients of Polynomial B: ");
 scanf("%d",&n2);
 printf("\nEnter the Co-efficients & Exponents for B: \n\n");
 
