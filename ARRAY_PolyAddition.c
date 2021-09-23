@@ -9,7 +9,7 @@ struct poly {
 void main() {
     int n1,n2,n3,i,j,k;
 
-printf("\nNumber of Co-efficients of Poly. A: ");
+printf("\nNumber of Co-efficients of Polynomial A: ");
 scanf("%d",&n1);
 
 printf("\n\nEnter the Co-efficients & Exponents for A: \n\n");
