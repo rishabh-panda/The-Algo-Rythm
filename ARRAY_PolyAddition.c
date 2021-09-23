@@ -4,7 +4,7 @@
 struct poly {
    int exp;
    int coef;
-}a[10],b[10],c[10];
+}  a[10],b[10],c[10];
 
 void main() {
     int n1,n2,n3,i,j,k;
