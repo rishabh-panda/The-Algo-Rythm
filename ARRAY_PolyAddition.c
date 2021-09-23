@@ -2,7 +2,7 @@
 #include<conio.h>
 
 
-
+//Structure containing relevant parameters
 struct poly {
    int exp;
    int coef;
