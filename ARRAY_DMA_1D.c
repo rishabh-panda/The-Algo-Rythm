@@ -13,7 +13,7 @@
         exit(0);
     }
 
-    //r for DMA
+    //er for DMA
     int *ptr = (int*)malloc(n * sizeof(int));
     if (ptr == NULL)
     {
