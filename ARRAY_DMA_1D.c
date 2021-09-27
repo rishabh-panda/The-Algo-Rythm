@@ -13,7 +13,8 @@
         exit(0);
     }
 
-    int *ptr = (int*)malloc(n * sizeof(int)); //declaring & defining a pointer for DMA
+    //A
+    int *ptr = (int*)malloc(n * sizeof(int));
     if (ptr == NULL)
     {
         printf("\nInsufficient Memory");
