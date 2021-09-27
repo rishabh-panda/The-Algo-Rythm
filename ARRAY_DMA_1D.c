@@ -13,7 +13,7 @@
         exit(0);
     }
 
-    //ter for DMA
+    //declaring & defining a pointer for DMA
     int *ptr = (int*)malloc(n * sizeof(int));
     if (ptr == NULL)
     {
