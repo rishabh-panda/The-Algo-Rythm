@@ -13,7 +13,7 @@
         exit(0);
     }
 
-    //A
+    // MA
     int *ptr = (int*)malloc(n * sizeof(int));
     if (ptr == NULL)
     {
